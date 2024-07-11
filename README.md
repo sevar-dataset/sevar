@@ -14,7 +14,7 @@ Event cameras, characterized by their low latency,large dynamic range, and extre
 ## DATASET SEQUENCES
 Sequence Name|Total Size|Duration|Rosbag|GT
 --|:--|:--:|--:|--:
-AR-normal|2.28g|92s|[Rosbag](https://pan.baidu.com/s/1yNdwcSxN14tT_fGqvFiUcA )|[GT](https://1drv.ms/t/c/48c1f55133f3a070/EeWoHTQA1QtCk0tByN716boBsaj-6KRwnviLcxNZXlqWMA?e=7Af0jd)
+AR-normal|2.28g|92s|[Rosbag](https://pan.baidu.com/s/1zvpk3hRYwEopyPsoF6WshA )|[GT](https://1drv.ms/t/c/48c1f55133f3a070/EeWoHTQA1QtCk0tByN716boBsaj-6KRwnviLcxNZXlqWMA?e=7Af0jd)
 AR-hdr|3.03g|98s|[Rosbag](https://pan.baidu.com/s/10iftQF62biYDjtBSby_HXg )|[GT](https://1drv.ms/t/c/48c1f55133f3a070/ESrI-6U_KU5Ns54_CNN4jGYBgd_o71BTwBbdNDwN4F9NTg?e=EYrIVi)
 VR-normal|2.88g|80s|[Rosbag](https://pan.baidu.com/s/1HEZrGog6FkdV3ppShSTsFg )|[GT](https://1drv.ms/t/c/48c1f55133f3a070/EVhB8s1AlqdFrMVp4o4g_DoB3GqabFZ7rOmprJ3qDWNoXg?e=PcpEOj)
 VR-hdr|2.45g|86s|[Rosbag](https://pan.baidu.com/s/1jiG0SHdFdQ15S0XpextSfA )|[GT](https://1drv.ms/t/c/48c1f55133f3a070/EXC0AhGF76VCv6U02hDiFQsBTA0r_LKgpcqHyK5p-zSzvA?e=R3YwF1)
