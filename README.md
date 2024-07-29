@@ -37,8 +37,6 @@ Sofa-fast|2.09g|35s|[Rosbag](https://pan.baidu.com/s/17KyEHO5KvXPORZ2BV0iFHw )|[
 Sofa-hdr|1.01g|33s|[Rosbag](https://pan.baidu.com/s/1Amgejb5WlFSIyA4hxj3Jzg )|[GT](https://1drv.ms/t/c/48c1f55133f3a070/EYG3hTMpmLZMk2r94t2AnW4B6i1YufTE3us65yDMe8YSSw?e=wniUeT)
 
 ### Calibration
-For camera intrinsics,visit [Ocamcalib](http://sites.google.com/site/scarabotix/ocamcalib-toolbox) for omnidirectional model.
-visit [Vins-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) for pinhole and MEI model.
-use [Opencv](https://opencv.org/) for Kannala Brandt model
-For IMU intrinsics,visit [Imu_utils](https://github.com/gaowenliang/imu_utils)
-For extrinsics between cameras and IMU,visit [Kalibr](https://github.com/ethz-asl/kalibr)
+  For camera intrinsics,visit [Ocamcalib](http://sites.google.com/site/scarabotix/ocamcalib-toolbox) for omnidirectional model.visit [Vins-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) for pinhole and MEI model.use [Opencv](https://opencv.org/) for Kannala Brandt model
+  For IMU intrinsics,visit [Imu_utils](https://github.com/gaowenliang/imu_utils)
+  For extrinsics between cameras and IMU,visit [Kalibr](https://github.com/ethz-asl/kalibr)
