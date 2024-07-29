@@ -10,7 +10,7 @@ Event cameras, characterized by their low latency,large dynamic range, and extre
 
 ## SENSOR SETUP
 IMU (middle), stereo regular cameras (bottom), and event cameras (top) are rigidly mounted on a 3D-printed holder
-<img src="https://github.com/sevar-dataset/sevar/blob/main/Fig1.png" width="600px">
+<img src="https://github.com/sevar-dataset/sevar/blob/main/Fig1.png" width="400px">
 * **RGB Camera** OV7251; 640×480; f/0.825 mm; FoV: 165° D-FOV; global shutter; 30 Hz.
 * **Event Camera** DAVIS346; 346×260; f/2.8 mm; FoV: 150° D-FOV; up to 120 dB.
 * **IMU**  ICM42688P; 3-axis accelerometer; 3-axis gyroscope; 1000 Hz.
